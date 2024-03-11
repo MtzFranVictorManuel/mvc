@@ -24,3 +24,9 @@
 /Users/victormanuel/Documents/Programacion/tecnologiasweb/mvc/obj/Debug/net8.0/mvc.pdb
 /Users/victormanuel/Documents/Programacion/tecnologiasweb/mvc/obj/Debug/net8.0/mvc.genruntimeconfig.cache
 /Users/victormanuel/Documents/Programacion/tecnologiasweb/mvc/obj/Debug/net8.0/ref/mvc.dll
+/Users/victormanuel/Documents/Programacion/tecnologiasweb/mvc/bin/Debug/net8.0/MySqlConnector.dll
+/Users/victormanuel/Documents/Programacion/tecnologiasweb/mvc/bin/Debug/net8.0/MySqlConnector.DependencyInjection.dll
+/Users/victormanuel/Documents/Programacion/tecnologiasweb/mvc/obj/Debug/net8.0/mvc.csproj.AssemblyReference.cache
+/Users/victormanuel/Documents/Programacion/tecnologiasweb/mvc/obj/Debug/net8.0/mvc.RazorAssemblyInfo.cache
+/Users/victormanuel/Documents/Programacion/tecnologiasweb/mvc/obj/Debug/net8.0/mvc.RazorAssemblyInfo.cs
+/Users/victormanuel/Documents/Programacion/tecnologiasweb/mvc/obj/Debug/net8.0/mvc.csproj.Up2Date
